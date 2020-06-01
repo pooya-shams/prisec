@@ -18,7 +18,7 @@ blur_kernel_height = 17
 exit_keys = [ord('q'), 27]
 window_name = "AntiSPY!"
 
-# hyper parameters (for my own fucking room)
+# hyper parameters (for my own room)
 lower = np.array([20, 20, 20])
 upper = np.array([255, 255, 255])
 dilations = 8
